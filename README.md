@@ -1,11 +1,11 @@
 ## Olá! Meu nome é João Vitor Nunes, sou graduado e mestre em Física, e atualmente estou cursando doutorado na área.
 
 <div align="center">
-  <a href="https://github.com/JVNS1999">
+  <a href="https://github.com/DaviphysicUFMG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVNS1999&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVNS1999&layout=compact&langs_count=7&theme=synthwave"/>
   
-  <a href="https://www.linkedin.com/in/davi-bicalho-silva-651884190/">
+
   <!---
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviphysicUFMG&theme=dark"/>
   -->
