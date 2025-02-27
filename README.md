@@ -23,6 +23,3 @@
   <a href="https://www.instagram.com/joao21nunes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-![Analises](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVNS1999&theme=vue)
-</div>
