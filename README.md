@@ -24,5 +24,5 @@
 </div>
 
 <div align="center">
-  ![Analises](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVNS1999&theme=vue)
+![Analises](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JVNS1999&theme=vue)
 </div>
